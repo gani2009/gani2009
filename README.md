@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [samgau.org.kz](https://github.com/gani2009/Samgau.org.kz)
 
-- 🌱 I’m currently learning **C, and React Native**
+- 🌱 I’m currently learning **C, and Rust**
 
 - 👯 I’m looking to collaborate on [Azan - Namaz Timing and Qibla](https://github.com/gani2009/azan)
 
