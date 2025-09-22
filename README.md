@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gani Omirzak</h1>
 <h3 align="center">A passionate full stack developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [samgau.org.kz](https://github.com/gani2009/Samgau.org.kz)
 
 - 🌱 I’m currently learning **C, and Rust**
 
-- 👯 I’m looking to collaborate on [Azan - Namaz Timing and Qibla](https://github.com/gani2009/azan)
 
-- 💬 Ask me about **Node JS**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **gani.omyrzak@gmail.com**
 
